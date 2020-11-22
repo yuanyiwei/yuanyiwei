@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Welcome to Blog: https://yyw.moe/
 
-![stat](https://github-readme-stats.vercel.app/api?username=yuanyiwei)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanyiwei&layout=compact)
