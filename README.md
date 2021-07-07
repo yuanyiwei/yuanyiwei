@@ -11,4 +11,5 @@
 
 This is totoroyyw.
 
- - Blog (in Chinese): https://yyw.moe/
+- Blog (in Chinese): https://yyw.moe/
+- GPG Fingerprint: EDE2 551D 6DE7 B751 168A E6FC D546 F016 5447 65FB
